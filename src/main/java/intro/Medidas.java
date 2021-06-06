@@ -9,6 +9,7 @@ public class Medidas {
 
     // 3.2 - Metodos e funcoes (sao as coisas que sabem fazer)
     public static void main(String[] args) {
+        System.out.println("boa noite!!!");
         System.out.println("Meu primeiro codigo em Java!!!");
         System.out.println("Calculo de areas");
 
